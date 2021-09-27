@@ -81,8 +81,7 @@ Subject terms are **controlled vocabularies** assigned to items by librarians. S
 
 ### 6. Use published bibliographies to find sources
 
-* [Oxford Bibliographies](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=OBO)  
-* [The American Historical Association's Guide to Historical Literature](https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/14dinuo/01TUN_ALMA51273467800003851) 
+There is no reason to reinvent the wheel. Bibliographies are not mere ornamentation. They are mean to be used.
 
 
 ### 7. Use Google, but use it wisely.
@@ -99,7 +98,7 @@ Using Google wisely
 [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
 
 
-### Remember, I'm here to help with this process.
+### Remember, I'm here to help with your research.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
 micah.saxton@tufts.edu
