@@ -1,4 +1,4 @@
-## 7 Search Strategies for Historical Research
+## Search Strategies for Historical Research
 
 
 ### Hello, I'm Micah.
@@ -9,31 +9,41 @@
 micah.saxton@tufts.edu
 
 
-### 1. Know what you are searching
+### 1. Use reference sources to find and/or narrow your research topic.
 
-What is the difference between "JumboSearch", "Tufts Catalog", and "Libraries Worldwide"?
+What is a reference source?
 
-Compare the following databases:
-* [America: History and Life](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=AmerHistLife) 
-* [Historical Abstracts](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=HistAbs)
-* [Essay and General Literature Index](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=FSEssayGenLint)
-* [JSTOR](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=JSTOR)
+A reference source summarizes and synthesizes secondary sources. Typically, a reference source does not contain original research. These sources provide important background and contextual information on your subject.
+
+Examples of reference sources:
+* Bibliography
+* Dictionary / Encyclopedia
+* Handbook
 
 
-### 2. Use the important words from your topic as "keywords" when searching a catalog or database.
+### 2. Find the right database for you
+There is no one perfect database
+
+* Do I need primary sources or secondary sources?
+* What kind of primary source do I need? (Critical edition, newspaper, or something else?)
+* Do I need a primary source from a particular time period or location?
+* Do I need a book or an article?
+* Do I need a specific disciplinary focus?
+
+
+### 3. Use the important words from your topic as "keywords" when searching a catalog or database.
 
 What is a keyword?  
 
-Example Topic:  
-The impact of Sulla's dictatorship in the Roman Republic on Cicero's developing political thought.
-
-The impact of <mark>Sulla</mark>'s dictatorship in the <mark>Roman Republic</mark> on <mark>Cicero</mark>'s developing <mark>political thought</mark>.
+What is your working topic?
 
 
 ### 3. Find subject terms relevant to your topic.
 
 What is a subject term?  
 How is it different from a keyword?
+
+Subject terms are **controlled vocabularies** assigned to items by librarians. Subject searches may return fewer items, but the results are usually more relevant.
 
 #### How to find subject terms
 1. Examine the subject terms associated with items returned from keyword searching.
@@ -53,30 +63,43 @@ How is it different from a keyword?
 ### Interlude: Try it out
 1. Write down your research topic.  
 2. Identify the most important terms in your topic.  
-3. Use those terms as a keyword search in JumboSearch.  
+3. Use those terms as a keyword search in *JumboSearch*.  
 4. After finding a few useful sources, identify the subject terms used for those sources.  
-5. Search JumboSearch using the subject terms.
+5. Search the *library catalog* using the subject terms.
 6. Use subject terms to find primary sources on your topic.  
 
 
+### 5. Use complex searches when necessary
 
-### 5. Use wildcards when necessary
+#### Boolean operators
+* Use AND, OR, or NOT in your searches to expand or limit them.
 
-Wildcard characters allow you to easily search for variants of words.  
-
-Example: "rac*" will search for "race," "racism," and "racist" (but it will also search for "racing")
-
-
-### 6. Use the tools provided by the database.
-
-##### [JSTOR](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=JSTOR)
-* JSTOR Understanding Series
-* Text Analyzer  
-
-##### [Foreign Broadcast Information Service (FBIS) Daily Reports](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=RsrcRcrdFBIS)
-* Events
+#### Wildcards
+* Wildcard characters allow you to easily search for variants of words.  
+* Example: "rac*" will search for "race," "racism," and "racist" (but it will also search for "racing")
 
 
-### 7. Use published bibliographies to find sources
+### 6. Use published bibliographies to find sources
+
 * [Oxford Bibliographies](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=OBO)  
 * [The American Historical Association's Guide to Historical Literature](https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/14dinuo/01TUN_ALMA51273467800003851) 
+
+
+### 7. Use Google, but use it wisely.
+
+Using Google wisely
+* Google does not contain (index) all available sources.
+* Google will customize your search results based your previous searches.
+* Google does not rank its results based on credibility.
+* [Google Scholar](https://scholar.google.com/) is more useful for finding scholarly literature than the main Google search.
+
+
+### 8. Keep track of your research
+
+[Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
+
+
+### Remember, I'm here to help with this process.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
