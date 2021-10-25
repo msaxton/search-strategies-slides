@@ -1,47 +1,53 @@
-## Search Strategies for Historical Research
+## Research Strategies
 
+
+### 1. Get to know your librarian
 
 ### Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-<a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a>
-<br>
 micah.saxton@tufts.edu
 
 
-### 1. Use reference sources to find and/or narrow your research topic.
+### 2. Reference sources can help you find and/or narrow your research topic.
 
 What is a reference source?
 
 A reference source summarizes and synthesizes secondary sources. Typically, a reference source does not contain original research. These sources provide important background and contextual information on your subject.
 
 Examples of reference sources:
-* Bibliography
 * Dictionary / Encyclopedia
 * Handbook
 
 
-### 2. Find the right database for you
-There is no one perfect database
+### 3. Bibliographies are tools, not formalities.
 
-* Do I need primary sources or secondary sources?
-* What kind of primary source do I need? (Critical edition, newspaper, or something else?)
-* Do I need a primary source from a particular time period or location?
-* Do I need a book or an article?
-* Do I need a specific disciplinary focus?
+Use published bibliographies or the bibliographies in scholarly literature to help you find sources.
 
 
-### 3. Use the important words from your topic as "keywords" when searching a catalog or database.
+### 4. The who, what, where, when, and why of your research topic can be used as keywords when searching library catalogs and databases.
 
-What is a keyword?  
+What is a keyword?
+
+* Keywords ("Any field") searches:
+    * title
+    * author
+    * table of contents / summary (if available)
+    * subjects
 
 What is your working topic?
 
 
-### 3. Find subject terms relevant to your topic.
+### 5. There is no perfect database.
 
-What is a subject term?  
-How is it different from a keyword?
+* Do I need primary or secondary sources?
+* What kind of primary source do I need?
+* Do I need a primary sources from a specific time period or region?
+* What kind of secondary source do I need?
+* Do I need a specific disciplinary focus like sociology or history?
+
+
+### 6. Move from keyword searching to subject term searching
 
 Subject terms are **controlled vocabularies** assigned to items by librarians. Subject searches may return fewer items, but the results are usually more relevant.
 
@@ -49,39 +55,20 @@ Subject terms are **controlled vocabularies** assigned to items by librarians. S
 1. Examine the subject terms associated with items returned from keyword searching.
 2. Browse the subject terms used in the database.
 
+Subject terms can also be used to find primary sources:
 
-### 4. Use subject terms to find relevant primary sources
-
-"Primary source" is not a subject term, but you can use the following:
-* sources
-* diaries
+* archival resources
+* archives
+* broadsides
+* case studies
 * correspondence
+* diaries
+* maps
+* newspapers
 * personal narratives
-* notebooks, sketchbooks, etc
-
-
-### Interlude: Try it out
-1. Write down your research topic.  
-2. Identify the most important terms in your topic.  
-3. Use those terms as a keyword search in *JumboSearch*.  
-4. After finding a few useful sources, identify the subject terms used for those sources.  
-5. Search the *library catalog* using the subject terms.
-6. Use subject terms to find primary sources on your topic.  
-
-
-### 5. Use complex searches when necessary
-
-#### Boolean operators
-* Use AND, OR, or NOT in your searches to expand or limit them.
-
-#### Wildcards
-* Wildcard characters allow you to easily search for variants of words.  
-* Example: "rac*" will search for "race," "racism," and "racist" (but it will also search for "racing")
-
-
-### 6. Use published bibliographies to find sources
-
-There is no reason to reinvent the wheel. Bibliographies are not mere ornamentation. They are mean to be used.
+* sermons
+* sources
+* speeches, addresses, etc.
 
 
 ### 7. Use Google, but use it wisely.
