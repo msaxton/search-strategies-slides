@@ -20,6 +20,16 @@ Examples of reference sources:
 * Dictionary / Encyclopedia
 * Handbook
 
+What is a research topic?
+
+"A [research] topic is an approach to a subject, one that asks a question whose answer solves a problem that your readers care about." (Booth et al., 2014)
+
+Topics should be narrow enough to direct your research and fit within the parameters of your assignment.
+
+General topic: Islamic thought in the modern world
+
+Narrow topic: The effect of the popular uprisings in Egypt during the 2010s on Islamic political philosophy
+
 
 ### 3. Bibliographies are tools, not formalities.
 
