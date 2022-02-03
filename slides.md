@@ -10,35 +10,42 @@
 micah.saxton@tufts.edu
 
 
-### 2. Reference sources can help you find and/or narrow your research topic.
-
-What is a reference source?
+### 2. Use reference sources to help you find and/or narrow your research topic
 
 A reference source summarizes and synthesizes secondary sources. Typically, a reference source does not contain original research. These sources provide important background and contextual information on your subject.
 
-Examples of reference sources:
-* Dictionary / Encyclopedia
-* Handbook
 
-What is a research topic?
+### 3. A narrowly defined research topic will streamline your research process.
 
 "A [research] topic is an approach to a subject, one that asks a question whose answer solves a problem that your readers care about." (Booth et al., 2014)
 
 Topics should be narrow enough to direct your research and fit within the parameters of your assignment.
 
-General topic: Islamic thought in the modern world
+General topic: Representations of queerness in the media
 
-Narrow topic: The effect of the popular uprisings in Egypt during the 2010s on Islamic political philosophy
+Narrow topic: The conflict between _machismo_ and queer identity in recent Latin American film
+
+#### Name your topic
+I am researching...
+
+**I am researching** the conflict between _machismo_ and queer identity in recent Latin American film
+
+#### Ask a question
+...because I want to find out who/what/where/when/wether/why/how..
+
+**because I want to find out how** how these films portray masculinity
+
+#### Identify the significance of your research
+...in order to help my reader understand...
+
+**in order to help my reader understand** how the media plays a role in the construction of gender norms.
+
+I am researching the conflict between _machismo_ and queer identity in recent Latin American films
+because I want to find out how these films portray masculinity
+in order to help my reader understand how the media plays a role in the construction of gender norms.
 
 
-### 3. Bibliographies are tools, not formalities.
-
-Use published bibliographies or the bibliographies in scholarly literature to help you find sources.
-
-
-### 4. The who, what, where, when, and why of your research topic can be used as keywords when searching library catalogs and databases.
-
-What is a keyword?
+### 4. Combine keywords and subject terms to get more relevant search results
 
 * Keywords ("Any field") searches:
     * title
@@ -46,49 +53,34 @@ What is a keyword?
     * table of contents / summary (if available)
     * subjects
 
-What is your working topic?
-
-
-### 5. There is no perfect database.
-
-* Do I need primary or secondary sources?
-* What kind of primary source do I need?
-* Do I need a primary sources from a specific time period or region?
-* What kind of secondary source do I need?
-* Do I need a specific disciplinary focus like sociology or history?
-
-
-### 6. Move from keyword searching to subject term searching
-
 Subject terms are **controlled vocabularies** assigned to items by librarians. Subject searches may return fewer items, but the results are usually more relevant.
 
 #### How to find subject terms
 1. Examine the subject terms associated with items returned from keyword searching.
 2. Browse the subject terms used in the database.
 
-Subject terms can also be used to find primary sources:
+### 5. Know the scope of what you are searching
 
-* archival resources
-* archives
-* broadsides
-* case studies
-* correspondence
-* diaries
-* maps
-* newspapers
-* personal narratives
-* sermons
-* sources
-* speeches, addresses, etc.
+* JumboSearch
+* library catalogue
+* libraries worldwide
+* databases
 
 
-### 7. Use Google, but use it wisely.
+### 6. Use Google, but use it wisely.
 
 Using Google wisely
 * Google does not contain (index) all available sources.
 * Google will customize your search results based your previous searches.
 * Google does not rank its results based on credibility.
 * [Google Scholar](https://scholar.google.com/) is more useful for finding scholarly literature than the main Google search.
+
+
+### 7. Read strategically
+
+* Read the introduction and conclusion first
+* Scan the table of contents and indexes
+* Consult book reviews
 
 
 ### 8. Keep track of your research
