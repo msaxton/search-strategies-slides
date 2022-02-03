@@ -59,6 +59,7 @@ Subject terms are **controlled vocabularies** assigned to items by librarians. S
 1. Examine the subject terms associated with items returned from keyword searching.
 2. Browse the subject terms used in the database.
 
+
 ### 5. Know the scope of what you are searching
 
 * JumboSearch
