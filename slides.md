@@ -88,6 +88,8 @@ Using Google wisely
 
 [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
 
+[Zotero](https://www.zotero.org/) for bibliographic management
+
 
 ### Remember, I'm here to help with your research.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
